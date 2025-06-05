@@ -1,0 +1,52 @@
+#pagehead{
+
+display :flex;
+justify-content: center;
+gap:50px;
+};
+
+
+
+
+
+#maindiv{
+
+
+height:100px;
+width:100px;
+background-color: blue;
+
+
+
+}
+
+
+.innermaindiv{
+
+display:flex;
+justify-content: center;
+
+
+
+}
+
+.childdivs{
+padding: 90px;
+background-color: blue;
+border: 2px solid black;
+height:20px;
+width:20px;
+}
+
+
+#crossicon{
+
+font-size: 20px;
+
+}
+
+#trueicon{
+
+font-size: 20px;
+
+}
